@@ -1,0 +1,22 @@
+# Site settings
+title: lumen
+email: lumenwebdevelopment@gmail.com
+url: https://github.com/adrianyadav/
+description: "Lumen is a web development company located in New Zealand Dunedin that provide high-quality responsive designs for cilents."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Copyright lumen 2015
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/lumenwebdevelopmet
+
+# Build settings
+markdown: kramdown
+permalink: pretty
